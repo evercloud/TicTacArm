@@ -9,6 +9,10 @@ This is a Tic-Tac-Toe implementation using ARM assembly and a Raspberry PI 3 boa
 
 This software was developed as a University course optional project. As soon as I can, I will upload some more information.
 
+## Circuit Schematics
+
+<img src="https://github.com/evercloud/TicTacArm/blob/main/Complete%20Circuit.png" width="640">
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 

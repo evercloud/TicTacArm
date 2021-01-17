@@ -2,7 +2,8 @@
 @	Università degli Studi di Catania
 @	Corso di Architettura degli Elaboratori
 @	Prof. Nino Cauli
-        
+@   GPL-3.0 License
+
 	.syntax unified         @ modern syntax
 
 
